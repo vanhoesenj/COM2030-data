@@ -1,0 +1,54 @@
+State	# of
+Listings	Most
+Recent
+Report	Last
+Posted
+Alaska	22	1-2014	1-2013
+Alabama	96	1-2016	12-2014
+Arkansas	91	1-2016	12-2015
+Arizona	83	10-2015	7-2015
+California	431	10-2015	8-2014
+Colorado	121	3-2015	10-2014
+Connecticut	8	7-2009	5-2009
+Delaware	5	9-2013	11-2012
+Florida	306	8-2015	4-2015
+Georgia	128	10-2015	1-2015
+Iowa	67	8-2015	5-2015
+Idaho	69	6-2013	12-2013
+Illinois	273	1-2016	1-2016
+Indiana	78	11-2015	8-2015
+Kansas	40	3-2015	11-2014
+Kentucky	102	11-2015	8-2015
+Louisiana	41	10-2015	5-2015
+Massachusetts	24	1-2016	1-2016
+Maryland	35	11-2015	5-2014
+Maine	13	3-2004	2-2004
+Michigan	206	12-2015	12-2015
+Minnesota	70	10-2015	10-2014
+Missouri	128	1-2016	9-2015
+Mississippi	22	4-2013	2-2013
+Montana	44	8-2015	5-2015
+North Carolina	93	11-2015	10-2015
+North Dakota	6	12-2010	8-2005
+Nebraska	14	6-2011	8-2008
+New Hampshire	13	9-2015	9-2014
+New Jersey	56	11-2015	6-2053
+New Mexico	42	3-2014	10-2013
+Nevada	8	4-2009	2-2005
+New York	103	1-2016	8-2015
+Ohio	260	12-2015	9-2015
+Oklahoma	91	10-2015	9-2015
+Oregon	242	6-2015	6-2014
+Pennsylvania	112	1-2016	8-2015
+Rhode Island	5	12-2011	11-2011
+South Carolina	52	1-2014	2-2012
+South Dakota	17	8-2011	6-2008
+Tennessee	97	5-2015	4-2014
+Texas	210	10-2015	7-2015
+Utah	69	10-2014	12-2008
+Virginia	74	10-2015	9-2015
+Vermont	6	1-2006	10-2005
+Washington	617	12-2015	1-2016
+Wisconsin	88	12-2015	6-2014
+West Virginia	97	1-2016	11-2015
+Wyoming	28	5-2010	3-2010
