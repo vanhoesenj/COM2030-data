@@ -7,7 +7,7 @@ Content related to the spring 2016 COM2030 course:
 * [Luc] (https://github.com/lbburnsy)
 * [Ethan] (https://github.com/coopere9)
 * [Henry] (https://github.com/HenryDobell)
-* [George] ()
+* [George] (test)
 * [Myranda] (https://github.com/MyrandaRoo)
 * [Megan] ()
 * [Robert] (https://github.com/hollowayr)
